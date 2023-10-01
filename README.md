@@ -1,5 +1,5 @@
 # ResumeMatch
-AI matching resumes against a job listing with an output graph that shows how similar each resume is to the job listing.
+AI matching resumes against a job listing that outputs a graph that shows how similar each resume is to the job listing.
 
 ## Simple README for Resume Matching with Job Listing Code
 
